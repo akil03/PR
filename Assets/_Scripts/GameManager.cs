@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 using DG.Tweening;
 using UnityEngine.UI;
+using Facebook.Unity;
+using GameAnalyticsSDK;
+
 public class GameManager : MonoBehaviour {
 	public static GameManager instance;
     public Color[] BGColours;
@@ -19,8 +22,11 @@ public class GameManager : MonoBehaviour {
     public Text HighScoreTxt,EndScoreTxt;
     public GameObject AudioSourcePrefab;
     // Use this for initialization
-    private void Awake()
+    protected void Awake()
 	{
+        FB.Init();
+        GameAnalytics.Initialize();
+        Application.targetFrameRate = 60;
 		instance = this;
 	}
 	void Start () {
@@ -50,6 +56,7 @@ public class GameManager : MonoBehaviour {
 
     public void StartGame()
 	{
+        GameAnalytics.NewProgressionEvent(GAProgressionStatus.Start, "game");
         MainMenu.SetActive(false);
         InGame.SetActive(true);
         Spawn();
@@ -61,7 +68,7 @@ public class GameManager : MonoBehaviour {
         GameOver.SetActive(true);
         EndScoreTxt.text = "Score : " + Player.instance.score.ToString();
         SaveScore();
-
+        GameAnalytics.NewProgressionEvent(GAProgressionStatus.Complete,"game", Player.instance.score);
     }
 
     public void RestartGame()
