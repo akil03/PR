@@ -1,0 +1,431 @@
+fileFormatVersion: 2
+guid: e6123075bd7744760b00aadbcafcc339
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: EyeBlink_0
+    21300002: EyeBlink_1
+    21300004: EyeBlink_2
+    21300006: EyeBlink_3
+    21300008: EyeBlink_4
+    21300010: EyeBlink_5
+    21300012: EyeBlink_6
+    21300014: EyeBlink_7
+    21300016: EyeBlink_8
+    21300018: EyeBlink_9
+    21300020: EyeBlink_10
+    21300022: EyeBlink_11
+    21300024: EyeBlink_12
+    21300026: EyeBlink_13
+    21300028: EyeBlink_14
+    21300030: EyeBlink_15
+    21300032: EyeBlink_16
+    21300034: EyeBlink_17
+    21300036: EyeBlink_18
+    21300038: EyeBlink_19
+    21300040: EyeBlink_20
+    21300042: EyeBlink_21
+    21300044: EyeBlink_22
+    21300046: EyeBlink_23
+    21300048: EyeBlink_24
+    21300050: EyeBlink_25
+    21300052: EyeBlink_26
+    21300054: EyeBlink_27
+    21300056: EyeBlink_28
+    21300058: EyeBlink_29
+    21300060: EyeBlink_30
+    21300062: EyeBlink_31
+    21300064: EyeBlink_32
+    21300066: EyeBlink_33
+    21300068: EyeBlink_34
+    21300070: EyeBlink_35
+    21300072: EyeBlink_36
+    21300074: EyeBlink_37
+    21300076: EyeBlink_38
+    21300078: EyeBlink_39
+    21300080: EyeBlink_40
+    21300082: EyeBlink_41
+    21300084: EyeBlink_42
+    21300086: EyeBlink_43
+    21300088: EyeBlink_44
+    21300090: EyeBlink_45
+    21300092: EyeBlink_46
+    21300094: EyeBlink_47
+    21300096: EyeBlink_48
+    21300098: EyeBlink_49
+    21300100: EyeBlink_50
+    21300102: EyeBlink_51
+  externalObjects: {}
+  serializedVersion: 6
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EyeBlink_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1698
+        width: 411
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8138711f60bf64cc997b7687f8a74d76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBlink_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1698
+        width: 411
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db52948c73dc444699fb291b902edf54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBlink_2
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1698
+        width: 411
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5379957e639449de8ce6b6f6f999d75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBlink_3
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1698
+        width: 411
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91b15fc25b464c17a1871afb50edfbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBlink_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1348
+        width: 411
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16a37e55268743d695f0c92086f622c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBlink_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1348
+        width: 411
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c24d2e2c517c4188a392606673a5189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBlink_6
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1348
+        width: 411
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39135e7f33924976b33dcb5cd14b4d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBlink_7
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1348
+        width: 411
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1703ed235604476188a4481be56b1a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBlink_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 998
+        width: 411
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845f31ed98c11457da8b2578a3c25a8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBlink_9
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 998
+        width: 411
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef440e881e4544b398b869d7c1e1fe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBlink_10
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 998
+        width: 411
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20286b43b6f546b298dede59b8cd40b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBlink_11
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 998
+        width: 411
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a1459bf35f64d65aaafe556a39cb9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EyeBlink_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 648
+        width: 411
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b056d6a50c79e43138759c6e221c8f47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a52ceedbe8bd245e6b16888669bd339a
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
